@@ -24,7 +24,7 @@ Finance undergraduate at the University of Connecticut bridging capital markets 
 
 ---
 
-### 💻 Core Stack
+### 𝑪𝒐𝒓𝒆 𝑺𝒕𝒂𝒄𝒌
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
