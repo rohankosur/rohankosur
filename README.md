@@ -40,7 +40,7 @@ Finance undergraduate at the University of Connecticut bridging capital markets 
 
 ### 𝗚𝗶𝘁𝗛𝘂𝗯 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohankosur&show_icons=true&theme=radical&hide_border=true" alt="Rohan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankosur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohankosur&show_icons=true&theme=radical&hide_border=true&v=1" height="165" alt="Rohan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=rohankosur&theme=radical&hide_border=true" height="165" alt="Rohan's GitHub Streak" />
+</div>
