@@ -5,7 +5,7 @@
 
 Finance undergraduate at the University of Connecticut bridging capital markets and autonomous AI workflows. Leveraging full-stack development to engineer performance-optimized applications and programmatic media pipelines. 
 
-> 🚀 **Current Focus:** Deploying Antigravity AI Agent Workflows
+>  **C͟u͟r͟r͟e͟n͟t͟ ͟F͟o͟c͟u͟s͟:͟** Deploying Antigravity AI Agent Workflows
 
 ---
 
