@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Rohan Kosur 👋</h1>
+<h1 align="center">𝗥𝗼𝗵𝗮𝗻 𝗞𝗼𝘀𝘂𝗿</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Finance+%2B+Quantitative+Modeling;Full-Stack+Architectures;Autonomous+Agent+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=24&pause=2000&color=E5BE85&center=true&vCenter=true&width=600&lines=LATEST:+Shipped+180Math+digital+payment+flows;NEWS:+Merged+Routine+Streak+bitmask+optimizations;UPDATE:+Deploying+Antigravity+AI+agent+workflows" alt="Headline Ticker" />
 </p>
 
 ---
 
-### 🚀 Featured Architecture & Automation
+### 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
 
 | Project | Description | Focus |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Core Stack
+### 💻 𝗖𝗼𝗿𝗲 𝗦𝘁𝗮𝗰𝗸
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
-### 📊 GitHub Overview
+### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohankosur&show_icons=true&theme=tokyonight&hide_border=true" />
