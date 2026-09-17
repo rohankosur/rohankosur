@@ -11,15 +11,15 @@ Finance undergraduate at the University of Connecticut bridging capital markets 
 
 ### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
 
-* 📚 **[180Math](https://180math.com)** — *Full-Stack Education*
+*  **[180Math](https://180math.com)** — *Full-Stack Education*
   Interactive quiz engines, WCAG accessibility, and digital payment flows.
-* ⚙️ **[Antigravity Mobile IDE](#)** — *AI Workflows*
+*  **[Antigravity Mobile IDE](#)** — *AI Workflows*
   Mobile-first PWA client engineered for orchestrating autonomous AI agent developer workflows.
-* 🎞️ **[Faceless Video Pipeline](#)** — *Programmatic Media*
+*  **[Faceless Video Pipeline](#)** — *Programmatic Media*
   Autonomous, programmatic video generation and scheduling pipeline integrating Remotion, Gemini API, and YouTube Data API.
-* ⚡ **[Routine Streak PWA](#)** — *Performance*
+*  **[Routine Streak PWA](#)** — *Performance*
   High-contrast, local-first performance optimizer leveraging bitmask arithmetic and low-latency calendar rendering.
-* 🧠 **[Supercommunicators App](#)** — *NLP / Data Parsing*
+*  **[Supercommunicators App](#)** — *NLP / Data Parsing*
   Python application analyzing communication psychology and conversation dynamics using natural language processing.
 
 ---
