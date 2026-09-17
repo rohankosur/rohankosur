@@ -6,7 +6,19 @@
 
 ---
 
-### 💻 Stack & Technologies
+### 🚀 Featured Architecture & Automation
+
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| **[180Math](https://github.com/rohankosur/180math)** | Full-stack educational mathematics platform featuring interactive quiz engines, WCAG accessibility, and digital payment flows. | Full-Stack Education |
+| **[Antigravity Mobile IDE](https://github.com/rohankosur/antigravity-mobile-ide)** | Mobile-first Progressive Web App (PWA) client engineered for orchestrating autonomous AI agent developer workflows. | AI Workflows |
+| **[Faceless Video Pipeline](https://github.com/rohankosur/faceless-video-pipeline)** | Autonomous, programmatic video generation and scheduling pipeline integrating Remotion, Gemini API, and YouTube Data API. | Programmatic Media |
+| **[Routine Streak PWA](https://github.com/rohankosur/routine-streak-pwa)** | High-contrast, local-first performance optimizer leveraging bitmask arithmetic and low-latency calendar rendering. | Performance |
+| **[Supercommunicators App](https://github.com/rohankosur/supercommunicators-app)** | Python application analyzing communication psychology and conversation dynamics using natural language processing. | NLP / Data Parsing |
+
+---
+
+### 💻 Core Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
