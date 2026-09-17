@@ -1,4 +1,7 @@
-# Rohan Kosur
+<a href="https://github.com/rohankosur">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Rohan+Kosur;Finance+%2B+Full-Stack+AI" alt="Typing SVG" />
+</a>
+
 
 Finance undergraduate at the University of Connecticut bridging capital markets and autonomous AI workflows. Leveraging full-stack development to engineer performance-optimized applications and programmatic media pipelines. 
 
