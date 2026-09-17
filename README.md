@@ -1,37 +1,43 @@
-<h1 align="center">𝗥𝗼𝗵𝗮𝗻 𝗞𝗼𝘀𝘂𝗿</h1>
+# Rohan Kosur
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=24&pause=2000&color=E5BE85&center=true&vCenter=true&width=600&lines=LATEST:+Shipped+180Math+digital+payment+flows;NEWS:+Merged+Routine+Streak+bitmask+optimizations;UPDATE:+Deploying+Antigravity+AI+agent+workflows" alt="Headline Ticker" />
-</p>
+Finance undergraduate at the University of Connecticut bridging capital markets and autonomous AI workflows. Leveraging full-stack development to engineer performance-optimized applications and programmatic media pipelines. 
 
----
-
-### 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
-
-| Project | Description | Focus |
-| :--- | :--- | :--- |
-| **[180Math](https://github.com/rohankosur/180math)** | Full-stack educational mathematics platform featuring interactive quiz engines, WCAG accessibility, and digital payment flows. | Full-Stack Education |
-| **[Antigravity Mobile IDE](https://github.com/rohankosur/antigravity-mobile-ide)** | Mobile-first Progressive Web App (PWA) client engineered for orchestrating autonomous AI agent developer workflows. | AI Workflows |
-| **[Faceless Video Pipeline](https://github.com/rohankosur/faceless-video-pipeline)** | Autonomous, programmatic video generation and scheduling pipeline integrating Remotion, Gemini API, and YouTube Data API. | Programmatic Media |
-| **[Routine Streak PWA](https://github.com/rohankosur/routine-streak-pwa)** | High-contrast, local-first performance optimizer leveraging bitmask arithmetic and low-latency calendar rendering. | Performance |
-| **[Supercommunicators App](https://github.com/rohankosur/supercommunicators-app)** | Python application analyzing communication psychology and conversation dynamics using natural language processing. | NLP / Data Parsing |
+> 🚀 **Current Focus:** Deploying Antigravity AI Agent Workflows
 
 ---
 
-### 💻 𝗖𝗼𝗿𝗲 𝗦𝘁𝗮𝗰𝗸
+### 🚀 Featured Architecture & Automation
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-</p>
+* 📚 **[180Math](https://180math.com)** — *Full-Stack Education*
+  Interactive quiz engines, WCAG accessibility, and digital payment flows.
+* ⚙️ **[Antigravity Mobile IDE](#)** — *AI Workflows*
+  Mobile-first PWA client engineered for orchestrating autonomous AI agent developer workflows.
+* 🎞️ **[Faceless Video Pipeline](#)** — *Programmatic Media*
+  Autonomous, programmatic video generation and scheduling pipeline integrating Remotion, Gemini API, and YouTube Data API.
+* ⚡ **[Routine Streak PWA](#)** — *Performance*
+  High-contrast, local-first performance optimizer leveraging bitmask arithmetic and low-latency calendar rendering.
+* 🧠 **[Supercommunicators App](#)** — *NLP / Data Parsing*
+  Python application analyzing communication psychology and conversation dynamics using natural language processing.
 
-### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohankosur&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankosur&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 💻 Core Stack
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Tools & Automation**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohankosur&show_icons=true&theme=radical&hide_border=true" height="150" alt="Rohan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankosur&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
